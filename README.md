@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthall7
 - 👀 I’m interested in learning more about software, information technology, and cybersecurity!
-- 🌱 I’m currently working on creating a point of sale type project with java to go through the process of software engineering.
+- 🌱 I’m currently studying the fundamentals of programming languages as well as parallel and distributed computing.
 - 💞️ I’m looking to collaborate on projects where I can play a small part in something cool! 😄
 - 📫 How to reach me: thematthewhall7@gmail.com
 - 😄 Pronouns: He/ Him

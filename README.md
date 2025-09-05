@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthall7
 - 👀 I’m interested in learning more about software, information technology, and cybersecurity!
-- 🌱 I’m currently studying the fundamentals of programming languages as well as parallel and distributed computing.
+- 🌱 I’m currently researching how an image labeling system can use an active learning loop to efficiently interpret satellite data!
 - 💞️ I’m looking to collaborate on projects where I can play a small part in something cool! 😄
 - 📫 How to reach me: thematthewhall7@gmail.com
 - 😄 Pronouns: He/ Him
